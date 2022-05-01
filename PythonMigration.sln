@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnyInARowGame", "PythonMigration\AnyInARowGame.pyproj", "{483EC469-25A9-4603-8A92-C076946DF879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483EC469-25A9-4603-8A92-C076946DF879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483EC469-25A9-4603-8A92-C076946DF879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F0C0C0-30A8-434A-B52E-9945F1B6E7C2}
+	EndGlobalSection
+EndGlobal
